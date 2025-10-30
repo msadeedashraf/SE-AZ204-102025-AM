@@ -1,3 +1,8 @@
+## Lab 01
+
+- Instructions
+
+[Lab1](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_01.html)
 
 ## To download the Code from the Git
 
