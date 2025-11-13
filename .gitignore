@@ -49,3 +49,11 @@ Thumbs.db
 **/local.settings.json
 **/appsettings.Development.json
 **/appsettings.Local.json
+.vs/
+**/bin/
+**/obj/
+
+# never commit dev secrets
+**/local.settings.json
+**/appsettings.Development.json
+**/appsettings.Local.json
