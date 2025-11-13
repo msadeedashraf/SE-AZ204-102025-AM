@@ -1,0 +1,9 @@
+﻿{
+  "Logging": {
+    "LogLevel": { "Default": "Information", "Microsoft.AspNetCore": "Warning" }
+  },
+  "Cosmos": {
+    "Endpoint": "https://example.documents.azure.com:443/"
+    // Put Cosmos key in user-secrets or env, not here.
+  }
+}
