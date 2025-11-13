@@ -1,0 +1,35 @@
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+**/artifacts/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# Others
+*.vsidx
+*.pdb
+*.cache
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Rider/JetBrains
+.idea/
+*.iml
