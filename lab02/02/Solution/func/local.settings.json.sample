@@ -1,0 +1,7 @@
+﻿{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated"
+    // Put connection strings in user-secrets or env vars, not here.
+  }
+}
