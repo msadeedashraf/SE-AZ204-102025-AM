@@ -57,3 +57,9 @@ Thumbs.db
 **/local.settings.json
 **/appsettings.Development.json
 **/appsettings.Local.json
+.vs/
+**/bin/
+**/obj/
+**/local.settings.json
+**/appsettings.Development.json
+**/appsettings.Local.json
