@@ -32,4 +32,12 @@ Thumbs.db
 
 # Rider/JetBrains
 .idea/
-*.iml
+*.iml# IDE/build
+.vs/
+**/bin/
+**/obj/
+
+# Local dev secrets
+**/local.settings.json
+**/appsettings.Development.json
+**/appsettings.Local.json
